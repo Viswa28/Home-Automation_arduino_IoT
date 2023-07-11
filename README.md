@@ -2,15 +2,15 @@
 
 ## Contents
 
-<li>Home Automation System: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#homesafetyandautomationsystem</li>
-<li>Problem Statement: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#problem-statement</li>
-<li>Ideology and Abstract: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#idealogy-and-abstract</li>
-<li>Hardware Requirements: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#hardware-components</li>
-<li>Software Requirements: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#software-requirements</li>
-<li>Block Diagram: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#blockdiagram</li>
-<li>Working (Images): https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#working</li>
-<li>Video Demonstrations: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#video-demonstrations</li>
-<li>Future Scope: https://github.com/srini047/HomeSafetyandAutomationSystem/blob/main/README.md#future-scope</li>
+<li>Home Automation System:https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#problem-statement</li>
+<li>Problem Statement:https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#problem-statement</li>
+<li>Ideology and Abstract: https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#idealogy-and-abstract</li>
+<li>Hardware Requirements: https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#hardware-components</li>
+<li>Software Requirements: https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#software-requirements</li>
+<li>Block Diagram: https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#blockdiagram</li>
+<li>Working (Images): https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#working</li>
+<li>Video Demonstrations: https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#video-demonstrations</li>
+<li>Future Scope: https://github.com/Viswa28/Home-Automation_arduino_IoT/edit/main/README.md#future-scope</li>
 <li>Code: </li>
 
 <hr></hr>
@@ -113,5 +113,3 @@ https://user-images.githubusercontent.com/81156510/128621648-e880d713-284e-483d-
 <li>Used to integrate in a HTML Web page and Mobile App so that it is controllable from anywhere.</li>
 <li>Send regular updates to replace faulty appliances in the for of messages or notifications using Twilio.</li>
 
-## Drive Link:
-**Contains all the necessary files: https://drive.google.com/drive/folders/1mRZ76LcCJsWX3y1vvAeOqNmvOAGMhUtM?usp=sharing**
